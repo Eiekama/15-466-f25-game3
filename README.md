@@ -1,8 +1,10 @@
-# (TODO: your game's title)
+# Magical Girl Dodge Dodge
 
-Author: (TODO: your name)
+Author: Jingxuan Chen
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: Try to dodge the projectiles for as long as possible! I was curious how helpful
+adding a 3D sound to a projectile would be in enabling the player to dodge it, prompting
+this minigame.
 
 Screen Shot:
 
@@ -10,6 +12,12 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+WASD to Move
+
+Left Mouse Button/Esc to Grab/Ungrab mouse
+
+Mouse Movement to Move Camera
+
+R to Restart
 
 This game was built with [NEST](NEST.md).
